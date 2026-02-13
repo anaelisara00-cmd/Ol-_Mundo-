@@ -1,2 +1,3 @@
 Sobre o Projeito:
-Olá Mundo (Python) – Primeiro projeto simples desenvolvido para praticar lógica de programação básica. Ainda em fase de aprendizado, aplicando conceitos iniciais do curso.
+Olá Mundo (Python) – Primeiro projeto simples realizado de forma independente para praticar lógica básica de programação em Python.
+
