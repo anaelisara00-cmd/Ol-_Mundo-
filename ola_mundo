@@ -1,0 +1,9 @@
+import time
+
+mensagem = "Olá, Mundo!"
+
+for letra in mensagem:
+    print(letra, end="", flush=True)
+    time.sleep(0.2)  # pausa de 0,2 segundos entre cada letra
+
+print()  # pula uma linha no final
